@@ -6,12 +6,12 @@
 
 <servlet>
 		<servlet-name>helloWorld</servlet-name>
-		<servlet-class>com.jiwon.examples.HelloWorldServlet</servlet-class>
+		<servlet-class>com.jiwon.servlets.examples.HelloWorldServlet</servlet-class>
 	</servlet>
 
 	<servlet>
 		<servlet-name>hello</servlet-name>
-		<servlet-class>com.jiwon.examples.HelloServlet</servlet-class>
+		<servlet-class>com.jiwon.servlets.examples.HelloServlet</servlet-class>
 </servlet>
 
 <servlet-mapping>
